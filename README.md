@@ -1,6 +1,8 @@
-# Welcome to your Expo app 👋
+# my-app
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This repo was created as part of Day 3 of my internship. It’s also intended to be reused as a **starter project for future NativeWind/Expo apps**—so you can start building right away with a cleaner, more “UI-ready” setup and a nice component-friendly structure.
+
+> Status: Expo + NativeWind starter
 
 ## Get started
 
@@ -25,6 +27,14 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
+## NativeWind starter notes
+
+- UI is built using **NativeWind Tailwind classes** via React Native `className`.
+- Main areas to edit:
+  - `app/` (screens/routes)
+  - `components/` (reusable UI pieces)
+- Tailwind is configured to scan your app + components files so classes are picked up correctly.
+
 ## Get a fresh project
 
 When you're ready, run:
@@ -48,3 +58,4 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+

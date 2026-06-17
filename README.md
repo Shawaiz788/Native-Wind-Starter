@@ -3,6 +3,7 @@
 This repo was created as part of Day 3 of my internship. It’s also intended to be reused as a **starter project for future NativeWind/Expo apps**—so you can start building right away with a cleaner, more “UI-ready” setup and a nice component-friendly structure.
 
 > Status: Expo + NativeWind starter
+<img width="1240" height="2772" alt="1463" src="https://github.com/user-attachments/assets/26bc3bbd-c81c-4238-bc99-a1513ec27508" />
 
 ## Get started
 
